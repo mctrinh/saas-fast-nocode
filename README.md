@@ -1,4 +1,4 @@
-# ship-fast-nocode
+# saas-fast-nocode
 
 Launch secure and reliable SaaS products in no time with no code ⚡️
 
@@ -22,12 +22,12 @@ Launch secure and reliable SaaS products in no time with no code ⚡️
 
 - Clone
    ```bash
-   git clone https://github.com/mctrinh/ship-fast-nocode.git
+   git clone https://github.com/mctrinh/saas-fast-nocode.git
    ```
 
 - Build
    ```bash
-   cd ship-fast-nocode
+   cd saas-fast-nocode
    print("Let's write your no-code there! 💡")
    ```
 
@@ -48,4 +48,4 @@ Launch secure and reliable SaaS products in no time with no code ⚡️
 
 ## Contributing
 
-- Let's give ship-fast-nocode a star! 🌟
+- Let's give saas-fast-nocode a star! 🌟
